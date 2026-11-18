@@ -10,6 +10,7 @@ Built from line items on Log Home Finishing estimates written between March and 
 ## Exterior restoration (logs)
 | Service | Unit | Typical price | What drives it |
 | --- | --- | --- | --- |
+| Maintenance wash and recoat (finish still sound: log wash plus fresh coat) | sq ft | $4 to $6 | Finish condition, number of coats, access |
 | Surface prep: media blasting and sanding to clean, sound wood | sq ft | $8 to $11 | Old finish type, gray UV damage, access, number of stories |
 | Exterior finish system: primer, stain and clear top coat (Perma-Chink Lifeline or Sashco) | sq ft | $4 to $7 | Product system and number of coats (3 to 6) |
 | Prep plus full finish together | sq ft | $14 to $17 | Most full refinishes land here |
