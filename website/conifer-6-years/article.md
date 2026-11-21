@@ -7,13 +7,14 @@ category: Log Home Restoration
 author: Thomas Elliott
 date: 2026-11-20
 featured_image: featured.jpg
+youtube: https://www.youtube.com/watch?v=ieljgLT5D64
 ---
 
 In July 2020 we inspected this log home in Conifer, Colorado. The finish was starting to wear, the chinking was cracking, and rot had already started in a deck railing post. We recommended a full exterior restoration: media blasting, new stain and new chinking.
 
 The work wasn't done. This November we were back at the same house, and we took photos from the same spots we photographed in 2020. Six years and four months later, here's what changed.
 
-[VIDEO: YouTube VIDEO_ID]
+[VIDEO: YouTube ieljgLT5D64]
 
 ## 1. The finish wore away
 
